@@ -1,4 +1,5 @@
-## Go To Live Preview : <a href="https://ahmedelshenawy0.github.io/safary-app/">Safary App</a>
+## Go To Live Preview :
+<a href="https://ahmedelshenawy0.github.io/safary-app/">Safary App</a>
 
 ### Coded by : Ahmed Elshenawy
 
