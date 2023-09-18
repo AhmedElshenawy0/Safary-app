@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/safary-app/static/css/main.56088045.css",
+    "main.js": "/safary-app/static/js/main.e7adddd6.js",
+    "static/media/arches-national-park-1846759_1280.jpg": "/safary-app/static/media/arches-national-park-1846759_1280.f5652a72c6215bbb67ad.jpg",
+    "static/media/camels-6977918_1280.jpg": "/safary-app/static/media/camels-6977918_1280.aa561b1645ccfefeeb4a.jpg",
+    "static/media/camel-4598113_1280.jpg": "/safary-app/static/media/camel-4598113_1280.02e443fec00cb35656ff.jpg",
+    "static/media/downtown-4045037_1280.jpg": "/safary-app/static/media/downtown-4045037_1280.3edd5cb1bfe3b5b624fb.jpg",
+    "static/media/iraq-80106_1280.jpg": "/safary-app/static/media/iraq-80106_1280.723fc6c037c43c53e39d.jpg",
+    "static/media/desert-790640_1280.jpg": "/safary-app/static/media/desert-790640_1280.f8ba65661514b03a2149.jpg",
+    "static/media/sand.jpg": "/safary-app/static/media/sand.6b370aa76c8bd2babe79.jpg",
+    "static/media/dubai-230076_1280.jpg": "/safary-app/static/media/dubai-230076_1280.110644a45e4d62c85d2f.jpg",
+    "static/media/camel-4785794_1280.jpg": "/safary-app/static/media/camel-4785794_1280.c559ca59b66b934c207f.jpg",
+    "static/media/quad-bike-631410_1280.jpg": "/safary-app/static/media/quad-bike-631410_1280.128aed8ee3565a46181b.jpg",
+    "static/media/orange-1618917_1280.png": "/safary-app/static/media/orange-1618917_1280.4da71b2e17c814bb282c.png",
+    "static/media/desert-7386004_1280.jpg": "/safary-app/static/media/desert-7386004_1280.f0d5fb04865a8e460543.jpg",
+    "static/media/quad-bike-631436_1280.jpg": "/safary-app/static/media/quad-bike-631436_1280.c9f64b8fe10aecfa519a.jpg",
+    "static/media/people-2591874_1280.jpg": "/safary-app/static/media/people-2591874_1280.9293e4b06c33ff29746f.jpg",
+    "index.html": "/safary-app/index.html",
+    "main.56088045.css.map": "/safary-app/static/css/main.56088045.css.map",
+    "main.e7adddd6.js.map": "/safary-app/static/js/main.e7adddd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56088045.css",
+    "static/js/main.e7adddd6.js"
+  ]
+}
