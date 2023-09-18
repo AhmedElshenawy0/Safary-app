@@ -1,11 +1,11 @@
-<h2>Go To Live Preview : <h2/> <a href="https://ahmedelshenawy0.github.io/safary-app/">Safary App</a>
+<h2>Go To Live Preview : <a href="https://ahmedelshenawy0.github.io/safary-app/">Safary App</a><h2/> 
 
-### Coded by : Ahmed Elshenawy
+## Coded by : Ahmed Elshenawy
 
 <img src="./src/image/Captured.PNG" width="400px"/>
 <img src="./src/image/Captured2.PNG" width="200px"/>
 
-### The techniques and languages ​​I used are.
+## The techniques and languages ​​I used are.
 
 <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="100px"/> <br/>
 <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="100px"/><br/>
