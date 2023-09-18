@@ -1,3 +1,19 @@
+## Go To Live Preview : <a src="https://ahmedelshenawy0.github.io/safary-app/">Safary App</a>
+
+### Coded by : Ahmed Elshenawy
+
+<img src="./src/image/Captured.PNG" width="400px"/>
+<img src="./src/image/Captured2.PNG" width="200px"/>
+
+### The techniques and languages ​​I used are.
+
+<img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="100px"/> <br/>
+<img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="100px"/><br/>
+<img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="130px" height/><br/>
+<img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="110px"/><br/>
+<img  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" width="150px"/><br/>
+<img  src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" width="150px"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
