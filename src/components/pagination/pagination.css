@@ -1,0 +1,22 @@
+.pagination{
+    padding: 10px 80px;
+    text-align: center; 
+}
+
+.pagination .num{
+    padding: 5px 10px;
+    margin-right: 10px;
+    background-color: #945721;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.active{
+    padding: 5px 10px;
+    margin-right: 10px;
+    background-color: #522a07;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}

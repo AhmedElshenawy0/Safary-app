@@ -1,0 +1,116 @@
+.singleTour-container {
+  padding: 20px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.singleTour-container small {
+  display: flex;
+  align-items: center;
+  color: gray;
+}
+
+.right-icon {
+  font-size: 12px;
+  margin: 0 5px;
+}
+@media (max-width: 460px) {
+    .singleTour-container small {
+        font-size: 10px;
+      }
+      .right-icon {
+        margin: 0;
+      }
+ 
+  }
+.singleTour-container .adventure {
+  background-color: brown;
+  padding: 5px 10px;
+  width: fit-content;
+  border-radius: 10px;
+  color: white;
+}
+
+.singleTour-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.singleTour-info img {
+  width: 60%;
+}
+
+.book-info {
+  width: 35%;
+  box-shadow: 0 0 10px white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+}
+@media (max-width: 767px) {
+  .singleTour-info {
+    flex-direction: column-reverse;
+  }
+  .singleTour-info img {
+    width: 100%;
+    height: 100%;
+  }
+  .book-info {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 530px) {
+    .book-info {
+      width: 100%;
+    }
+  }
+.book-info h3 {
+  color: brown;
+  background-color: rgba(255, 0, 0, 0.244);
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+}
+.price-and-book {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+.book-info button {
+  padding: 10px 0;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+.book-now {
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  color: blue;
+}
+.tour-desc-container p {
+  letter-spacing: 1px;
+}
+.tour-desc-container h2 {
+  margin-bottom: 10px;
+  color: brown;
+}
+.activities {
+  margin: 10px 0 0 0;
+}
+.activity {
+  margin: 10px 0;
+}
+.activity p {
+  color: gray;
+}
+.activity h3 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}

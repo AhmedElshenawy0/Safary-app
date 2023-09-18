@@ -1,0 +1,44 @@
+.login-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../image/downtown-4045037_1280.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid blue;
+}
+
+.login-form input{
+    padding: 5px;
+    outline: none;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.login-form .login-btn{
+    padding: 10px 0;
+    border-radius: 10px;
+    border: none;
+    background: blue;
+    color: white;
+}
+.login-form h2{
+    margin-bottom: 10px;
+}
+@media(max-width:500px){
+    .login-form{
+        width: 300px;
+    }
+}

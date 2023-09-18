@@ -1,0 +1,54 @@
+.services {
+  padding: 20px 80px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.service {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid black;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.service:hover{
+  background-color: #b87b45;
+  color: white;
+  border-color: #b87b45;
+}
+.service:hover .service-icon{
+color: white;
+ 
+}
+
+.service .service-icon {
+  margin-right: 10px;
+  color: rgb(165, 89, 42);
+}
+
+@media(max-width: 700px){
+    .service {
+        font-size: 13px;
+        width: 45%;
+        margin-bottom: 10px;
+      }
+      .services {
+        flex-wrap: wrap;
+      }
+
+}
+
+@media(max-width: 460px){
+    .service {
+        font-size: 13px;
+        width: 95%;
+        margin-bottom: 10px;
+      }
+      .services {
+        flex-wrap: wrap;
+      }
+
+}
