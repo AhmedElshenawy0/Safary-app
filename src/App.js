@@ -17,6 +17,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/safary-app" element={<Home />} />
           <Route path="/about" element={<About/>} />
           <Route path="/tour/:id" element={<SingleTour/>} />
           <Route path="/register" element={<Register />} />
